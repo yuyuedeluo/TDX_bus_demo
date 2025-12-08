@@ -1,0 +1,4823 @@
+{
+  "timestamp": "2025-12-08T18:04:50.390742",
+  "data": [
+    {
+      "StopUID": "TPE153800",
+      "StopID": "153800",
+      "StopName": {
+        "Zh_tw": "深丘里(板橋放送所)",
+        "En": "Shenqiu Li(Banqiao Broadcasting Station)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE153797",
+      "StopID": "153797",
+      "StopName": {
+        "Zh_tw": "深丘里(板橋放送所)",
+        "En": "Shenqiu Li(Banqiao Broadcasting Station)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 297,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE153798",
+      "StopID": "153798",
+      "StopName": {
+        "Zh_tw": "新北市政府(新府路)",
+        "En": "New Taipei City Hall(Xinfu Rd.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 419,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE153799",
+      "StopID": "153799",
+      "StopName": {
+        "Zh_tw": "新北市政府(新府路)",
+        "En": "New Taipei City Hall(Xinfu Rd.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 292,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE221716",
+      "StopID": "221716",
+      "StopName": {
+        "Zh_tw": "新月一街",
+        "En": "Xinyue 1st St."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE221717",
+      "StopID": "221717",
+      "StopName": {
+        "Zh_tw": "新月一街",
+        "En": "Xinyue 1st St."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1699,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213022",
+      "StopID": "213022",
+      "StopName": {
+        "Zh_tw": "積穗",
+        "En": "Jisui"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 461,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213023",
+      "StopID": "213023",
+      "StopName": {
+        "Zh_tw": "積穗派出所",
+        "En": "Jisui Police Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 590,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213024",
+      "StopID": "213024",
+      "StopName": {
+        "Zh_tw": "員山公園",
+        "En": "Yuanshan Park"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 649,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213025",
+      "StopID": "213025",
+      "StopName": {
+        "Zh_tw": "積穗國中",
+        "En": "Jisui Junior High School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 726,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213020",
+      "StopID": "213020",
+      "StopName": {
+        "Zh_tw": "環球購物中心",
+        "En": "Globall Mall"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 271,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213021",
+      "StopID": "213021",
+      "StopName": {
+        "Zh_tw": "板橋監理站",
+        "En": "Banqiao Motor Vehicle Supervision Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 389,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213019",
+      "StopID": "213019",
+      "StopName": {
+        "Zh_tw": "國泰街口",
+        "En": "Guotai St. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 68,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213015",
+      "StopID": "213015",
+      "StopName": {
+        "Zh_tw": "新北市政府(新府路)",
+        "En": "New Taipei City Hall(Xinfu Rd.)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1303,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213016",
+      "StopID": "213016",
+      "StopName": {
+        "Zh_tw": "深丘里(板橋放送所)",
+        "En": "Shenqiu Li(Banqiao Broadcasting Station)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1478,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213017",
+      "StopID": "213017",
+      "StopName": {
+        "Zh_tw": "民族區運路口",
+        "En": "Minzu & Quyun  Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1609,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213018",
+      "StopID": "213018",
+      "StopName": {
+        "Zh_tw": "電信訓練所",
+        "En": "Telecommunications Training Center"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1645,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213033",
+      "StopID": "213033",
+      "StopName": {
+        "Zh_tw": "連城景平路(暫時裁撤)",
+        "En": "Liancheng & Jingping Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 196,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213034",
+      "StopID": "213034",
+      "StopName": {
+        "Zh_tw": "捷運中和站",
+        "En": "MRT Zhonghe Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 335,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213035",
+      "StopID": "213035",
+      "StopName": {
+        "Zh_tw": "華中橋",
+        "En": "Huazhong Bridge"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 414,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213036",
+      "StopID": "213036",
+      "StopName": {
+        "Zh_tw": "果菜市場",
+        "En": "Wholesale Fruit and Vegetable Market"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 616,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213030",
+      "StopID": "213030",
+      "StopName": {
+        "Zh_tw": "連城錦和路口(暫時裁撤)",
+        "En": "Liancheng Jinhe Rd. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1446,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213031",
+      "StopID": "213031",
+      "StopName": {
+        "Zh_tw": "台貿一村",
+        "En": "Taimao Village 1"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1533,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213032",
+      "StopID": "213032",
+      "StopName": {
+        "Zh_tw": "中和國稅局",
+        "En": "National Taxation Bureau Jhonghe Office"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 71,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213026",
+      "StopID": "213026",
+      "StopName": {
+        "Zh_tw": "員山派出所",
+        "En": "Yuanshan Police Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 888,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213027",
+      "StopID": "213027",
+      "StopName": {
+        "Zh_tw": "中和高中(員山路)",
+        "En": "Zhonghe High School(Yuanshan Rd.)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 958,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213028",
+      "StopID": "213028",
+      "StopName": {
+        "Zh_tw": "連城路",
+        "En": "Liancheng Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1044,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213029",
+      "StopID": "213029",
+      "StopName": {
+        "Zh_tw": "連城中正路口",
+        "En": "Liancheng Zhongzheng Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1147,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213044",
+      "StopID": "213044",
+      "StopName": {
+        "Zh_tw": "捷運西門站",
+        "En": "MRT Ximen Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1387,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213045",
+      "StopID": "213045",
+      "StopName": {
+        "Zh_tw": "中華路北站",
+        "En": "Zhonghua Rd. N. Stop"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1536,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213046",
+      "StopID": "213046",
+      "StopName": {
+        "Zh_tw": "臺北車站(忠孝)",
+        "En": "Taipei Main Sta. (Zhongxiao)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1669,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213047",
+      "StopID": "213047",
+      "StopName": {
+        "Zh_tw": "行政院",
+        "En": "Executive Yuan"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1860,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213040",
+      "StopID": "213040",
+      "StopName": {
+        "Zh_tw": "西藏路",
+        "En": "Xizang Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 979,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213041",
+      "StopID": "213041",
+      "StopName": {
+        "Zh_tw": "廈安里",
+        "En": "Shaan Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1037,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213042",
+      "StopID": "213042",
+      "StopName": {
+        "Zh_tw": "大埔街",
+        "En": "Dapu St."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1122,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213043",
+      "StopID": "213043",
+      "StopName": {
+        "Zh_tw": "聯合醫院和平院區",
+        "En": "TCUH, Heping Branch"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1199,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213037",
+      "StopID": "213037",
+      "StopName": {
+        "Zh_tw": "萬大國小",
+        "En": "Wanda Elementary School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 768,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213038",
+      "StopID": "213038",
+      "StopName": {
+        "Zh_tw": "德昌街口",
+        "En": "Dechang St. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 836,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213039",
+      "StopID": "213039",
+      "StopName": {
+        "Zh_tw": "西藏路口",
+        "En": "Xizang Rd. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 865,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213055",
+      "StopID": "213055",
+      "StopName": {
+        "Zh_tw": "南京龍江路口",
+        "En": "Nanjing & Longjiang Roads"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 517,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213056",
+      "StopID": "213056",
+      "StopName": {
+        "Zh_tw": "捷運南京復興站",
+        "En": "MRT Nanjing Fuxing Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 618,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213057",
+      "StopID": "213057",
+      "StopName": {
+        "Zh_tw": "南京敦化路口(小巨蛋)",
+        "En": "Nanjing & Dunhua Intersection (Taipei Arena)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 757,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213058",
+      "StopID": "213058",
+      "StopName": {
+        "Zh_tw": "南京寧安街口",
+        "En": "Nanjing & Ningan Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 911,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213051",
+      "StopID": "213051",
+      "StopName": {
+        "Zh_tw": "林森北路一",
+        "En": "LinSen N. Rd. 1"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 38,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213052",
+      "StopID": "213052",
+      "StopName": {
+        "Zh_tw": "南京吉林路口",
+        "En": "Nanjing & Jilin Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 262,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213053",
+      "StopID": "213053",
+      "StopName": {
+        "Zh_tw": "捷運松江南京站",
+        "En": "MRT Songjiang Nanjing Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 312,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213054",
+      "StopID": "213054",
+      "StopName": {
+        "Zh_tw": "南京建國路口",
+        "En": "Nanjing & Jianguo Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 433,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213050",
+      "StopID": "213050",
+      "StopName": {
+        "Zh_tw": "華山公園",
+        "En": "Huashan Park"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213048",
+      "StopID": "213048",
+      "StopName": {
+        "Zh_tw": "青島林森路口",
+        "En": "Qingdao & Linsen Roads"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1988,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213049",
+      "StopID": "213049",
+      "StopName": {
+        "Zh_tw": "北平林森路口",
+        "En": "Beiping and Linsen Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 2128,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213066",
+      "StopID": "213066",
+      "StopName": {
+        "Zh_tw": "莊敬里",
+        "En": "Zhuangjing Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 2008,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213067",
+      "StopID": "213067",
+      "StopName": {
+        "Zh_tw": "莊敬里",
+        "En": "Zhuangjing Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1526,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213068",
+      "StopID": "213068",
+      "StopName": {
+        "Zh_tw": "新益里",
+        "En": "Xinyi Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1625,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213069",
+      "StopID": "213069",
+      "StopName": {
+        "Zh_tw": "民生國中",
+        "En": "Minsheng Junior High School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1742,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213062",
+      "StopID": "213062",
+      "StopName": {
+        "Zh_tw": "三民路",
+        "En": "Sanmin Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1537,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213063",
+      "StopID": "213063",
+      "StopName": {
+        "Zh_tw": "新東街口",
+        "En": "Xindong St. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1648,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213064",
+      "StopID": "213064",
+      "StopName": {
+        "Zh_tw": "民生國中",
+        "En": "Minsheng Junior High School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1747,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213065",
+      "StopID": "213065",
+      "StopName": {
+        "Zh_tw": "新益里",
+        "En": "Xinyi Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1810,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213060",
+      "StopID": "213060",
+      "StopName": {
+        "Zh_tw": "西松國小",
+        "En": "Xisong Elementary School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1362,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213061",
+      "StopID": "213061",
+      "StopName": {
+        "Zh_tw": "三民健康路口(西松高中)",
+        "En": "Sanmin and Jiankang Intersection (Xisong High School)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1436,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213059",
+      "StopID": "213059",
+      "StopName": {
+        "Zh_tw": "南京三民路口",
+        "En": "NanJing-SanMin Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1093,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213077",
+      "StopID": "213077",
+      "StopName": {
+        "Zh_tw": "捷運南京復興站",
+        "En": "MRT Nanjing Fuxing Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 854,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213078",
+      "StopID": "213078",
+      "StopName": {
+        "Zh_tw": "南京龍江路口",
+        "En": "Nanjing & Longjiang Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 973,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213079",
+      "StopID": "213079",
+      "StopName": {
+        "Zh_tw": "南京建國路口",
+        "En": "Nanjing & Jianguo Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1060,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213073",
+      "StopID": "213073",
+      "StopName": {
+        "Zh_tw": "西松國小",
+        "En": "Xisong Elementary School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 344,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213074",
+      "StopID": "213074",
+      "StopName": {
+        "Zh_tw": "南京三民路口",
+        "En": "NanJing-SanMin Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 466,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213075",
+      "StopID": "213075",
+      "StopName": {
+        "Zh_tw": "南京寧安街口",
+        "En": "Nanjing & Ningan Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 576,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213076",
+      "StopID": "213076",
+      "StopName": {
+        "Zh_tw": "南京敦化路口(小巨蛋)",
+        "En": "Nanjing & Dunhua Intersection (Taipei Arena)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 732,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213070",
+      "StopID": "213070",
+      "StopName": {
+        "Zh_tw": "新東街口",
+        "En": "Xindong St. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1860,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213071",
+      "StopID": "213071",
+      "StopName": {
+        "Zh_tw": "三民路",
+        "En": "Sanmin Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 152,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213072",
+      "StopID": "213072",
+      "StopName": {
+        "Zh_tw": "三民健康路口(西松高中)",
+        "En": "Sanmin and Jiankang Intersection (Xisong High School)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 227,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213088",
+      "StopID": "213088",
+      "StopName": {
+        "Zh_tw": "小南門",
+        "En": "Xiaonanmen"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 749,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213089",
+      "StopID": "213089",
+      "StopName": {
+        "Zh_tw": "聯合醫院和平院區",
+        "En": "Hoping Hospital"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 880,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213084",
+      "StopID": "213084",
+      "StopName": {
+        "Zh_tw": "行政院",
+        "En": "Executive Yuan"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1830,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213085",
+      "StopID": "213085",
+      "StopName": {
+        "Zh_tw": "臺北車站(忠孝)",
+        "En": "Taipei Main Sta. (Zhongxiao)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 82,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213086",
+      "StopID": "213086",
+      "StopName": {
+        "Zh_tw": "中華路北站",
+        "En": "Zhonghua Rd. N. Stop"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 502,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213087",
+      "StopID": "213087",
+      "StopName": {
+        "Zh_tw": "捷運西門站",
+        "En": "MRT Ximen Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 581,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213080",
+      "StopID": "213080",
+      "StopName": {
+        "Zh_tw": "捷運松江南京站",
+        "En": "MRT Songjiang Nanjing Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1173,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213081",
+      "StopID": "213081",
+      "StopName": {
+        "Zh_tw": "南京吉林路口",
+        "En": "Nanjing & Jilin Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1272,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213082",
+      "StopID": "213082",
+      "StopName": {
+        "Zh_tw": "南京林森路口",
+        "En": "Nanjing & Linsen Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1389,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213083",
+      "StopID": "213083",
+      "StopName": {
+        "Zh_tw": "中山市場",
+        "En": "ZhongShan Market"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1552,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213099",
+      "StopID": "213099",
+      "StopName": {
+        "Zh_tw": "連城景平路(暫時裁撤)",
+        "En": "Liancheng & Jingping Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 580,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213095",
+      "StopID": "213095",
+      "StopName": {
+        "Zh_tw": "萬大國小",
+        "En": "Wanda Elementary School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "StopStatus": 2,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213096",
+      "StopID": "213096",
+      "StopName": {
+        "Zh_tw": "果菜市場",
+        "En": "Wholesale Fruit and Vegetable Market"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 78,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213097",
+      "StopID": "213097",
+      "StopName": {
+        "Zh_tw": "華中橋",
+        "En": "Huazhong Bridge"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 304,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213098",
+      "StopID": "213098",
+      "StopName": {
+        "Zh_tw": "捷運中和站",
+        "En": "MRT Zhonghe Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 457,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213091",
+      "StopID": "213091",
+      "StopName": {
+        "Zh_tw": "廈安里",
+        "En": "Shaan Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1153,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213092",
+      "StopID": "213092",
+      "StopName": {
+        "Zh_tw": "西藏路",
+        "En": "Xizang Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1273,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213093",
+      "StopID": "213093",
+      "StopName": {
+        "Zh_tw": "西藏路口",
+        "En": "Xizang Rd. Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1377,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213094",
+      "StopID": "213094",
+      "StopName": {
+        "Zh_tw": "德昌街口",
+        "En": "Dechang St. Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1418,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213090",
+      "StopID": "213090",
+      "StopName": {
+        "Zh_tw": "大埔街",
+        "En": "Dapu St."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1068,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213100",
+      "StopID": "213100",
+      "StopName": {
+        "Zh_tw": "中和國稅局",
+        "En": "National Taxation Bureau Jhonghe Office"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 615,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213101",
+      "StopID": "213101",
+      "StopName": {
+        "Zh_tw": "台貿一村",
+        "En": "Taimao Village 1"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 662,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213102",
+      "StopID": "213102",
+      "StopName": {
+        "Zh_tw": "連城錦和路口(暫時裁撤)",
+        "En": "Liancheng Jinhe Rd. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 777,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213110",
+      "StopID": "213110",
+      "StopName": {
+        "Zh_tw": "板橋監理站",
+        "En": "Banqiao Motor Vehicle Supervision Sta."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 2085,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213111",
+      "StopID": "213111",
+      "StopName": {
+        "Zh_tw": "環球購物中心",
+        "En": "Globall Mall"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 2198,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213112",
+      "StopID": "213112",
+      "StopName": {
+        "Zh_tw": "國泰街口",
+        "En": "Guotai St. Entrance"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 2446,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213113",
+      "StopID": "213113",
+      "StopName": {
+        "Zh_tw": "電信訓練所",
+        "En": "Telecommunications Training Center"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 52,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213107",
+      "StopID": "213107",
+      "StopName": {
+        "Zh_tw": "積穗國中",
+        "En": "Jisui Junior High School"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1706,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213108",
+      "StopID": "213108",
+      "StopName": {
+        "Zh_tw": "員山公園",
+        "En": "Yuanshan Park"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1831,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213109",
+      "StopID": "213109",
+      "StopName": {
+        "Zh_tw": "積穗",
+        "En": "Jisui"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1884,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213103",
+      "StopID": "213103",
+      "StopName": {
+        "Zh_tw": "連城中正路口",
+        "En": "Liancheng Zhongzheng Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1164,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213104",
+      "StopID": "213104",
+      "StopName": {
+        "Zh_tw": "連城路",
+        "En": "Liancheng Rd."
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1448,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213105",
+      "StopID": "213105",
+      "StopName": {
+        "Zh_tw": "中和高中(員山路)",
+        "En": "Zhonghe High School(Yuanshan Rd.)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1531,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213106",
+      "StopID": "213106",
+      "StopName": {
+        "Zh_tw": "員山派出所",
+        "En": "Yuanshan Police Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1649,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213121",
+      "StopID": "213121",
+      "StopName": {
+        "Zh_tw": "社后",
+        "En": "Shehou"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1071,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213122",
+      "StopID": "213122",
+      "StopName": {
+        "Zh_tw": "大庭新村",
+        "En": "Dating New Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1198,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213123",
+      "StopID": "213123",
+      "StopName": {
+        "Zh_tw": "港尾福德宮",
+        "En": "Gangwei Fude Temple"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1278,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213124",
+      "StopID": "213124",
+      "StopName": {
+        "Zh_tw": "港尾",
+        "En": "Gangwei"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1346,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213120",
+      "StopID": "213120",
+      "StopName": {
+        "Zh_tw": "板橋戶政事務所",
+        "En": "Banqiao Household Registration Office"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1004,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213118",
+      "StopID": "213118",
+      "StopName": {
+        "Zh_tw": "萬坪公園",
+        "En": "Zhuifeng Square"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 773,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213119",
+      "StopID": "213119",
+      "StopName": {
+        "Zh_tw": "北門街(黃石市場)",
+        "En": "Beimen St.(Huangshi Market)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 927,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213114",
+      "StopID": "213114",
+      "StopName": {
+        "Zh_tw": "民族區運路口",
+        "En": "Minzu & Quyun  Intersection"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 122,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213115",
+      "StopID": "213115",
+      "StopName": {
+        "Zh_tw": "深丘里(板橋放送所)",
+        "En": "Shenqiu Li(Banqiao Broadcasting Station)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 145,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213116",
+      "StopID": "213116",
+      "StopName": {
+        "Zh_tw": "新北市政府(新府路)",
+        "En": "New Taipei City Hall(Xinfu Rd.)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 288,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213117",
+      "StopID": "213117",
+      "StopName": {
+        "Zh_tw": "新北板橋公車站",
+        "En": "NTPC Banqiao Bus Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 538,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213125",
+      "StopID": "213125",
+      "StopName": {
+        "Zh_tw": "板橋國中(435藝文特區)",
+        "En": "Banqiao Jr. High School (435 Art Center)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1399,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213126",
+      "StopID": "213126",
+      "StopName": {
+        "Zh_tw": "名來新城(中正路)",
+        "En": "Minglai New Village(Zhongzheng Rd.)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1470,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213127",
+      "StopID": "213127",
+      "StopName": {
+        "Zh_tw": "臺北客運板橋前站(藝文)",
+        "En": "Taipei Bus Banqiao Station (Art)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 1,
+      "EstimateTime": 1761,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213003",
+      "StopID": "213003",
+      "StopName": {
+        "Zh_tw": "臺北客運板橋前站(藝文)",
+        "En": "Taipei Bus Banqiao Station (Art)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1526,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213011",
+      "StopID": "213011",
+      "StopName": {
+        "Zh_tw": "北門街(黃石市場)",
+        "En": "Beimen St.(Huangshi Market)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 360,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213012",
+      "StopID": "213012",
+      "StopName": {
+        "Zh_tw": "捷運府中站(府中路)",
+        "En": "MRT Fuzhong Station(Fuzhong Rd.)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 504,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213013",
+      "StopID": "213013",
+      "StopName": {
+        "Zh_tw": "萬坪公園",
+        "En": "Zhuifeng Square"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 802,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213014",
+      "StopID": "213014",
+      "StopName": {
+        "Zh_tw": "新北板橋公車站",
+        "En": "NTPC Banqiao Bus Station"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 997,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213010",
+      "StopID": "213010",
+      "StopName": {
+        "Zh_tw": "板橋戶政事務所",
+        "En": "Banqiao Household Registration Office"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 193,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213008",
+      "StopID": "213008",
+      "StopName": {
+        "Zh_tw": "大庭新村",
+        "En": "Dating New Village"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 77,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213009",
+      "StopID": "213009",
+      "StopName": {
+        "Zh_tw": "社后",
+        "En": "Shehou"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 155,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213004",
+      "StopID": "213004",
+      "StopName": {
+        "Zh_tw": "新月橋",
+        "En": "Xinyue Bridge"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1612,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213005",
+      "StopID": "213005",
+      "StopName": {
+        "Zh_tw": "板橋國中(435藝文特區)",
+        "En": "Banqiao Jr. High School (435 Art Center)"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1796,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213006",
+      "StopID": "213006",
+      "StopName": {
+        "Zh_tw": "港尾",
+        "En": "Gangwei"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 1848,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE213007",
+      "StopID": "213007",
+      "StopName": {
+        "Zh_tw": "港尾福德宮",
+        "En": "Gangwei Fude Temple"
+      },
+      "RouteUID": "TPE19108",
+      "RouteID": "19108",
+      "RouteName": {
+        "Zh_tw": "307西藏三民",
+        "En": "307Xizang Sanmin"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE199119",
+      "StopID": "199119",
+      "StopName": {
+        "Zh_tw": "積穗派出所",
+        "En": "Jisui Police Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 600,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15199",
+      "StopID": "15199",
+      "StopName": {
+        "Zh_tw": "港尾",
+        "En": "Gangwei"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15198",
+      "StopID": "15198",
+      "StopName": {
+        "Zh_tw": "板橋國中(435藝文特區)",
+        "En": "Banqiao Jr. High School (435 Art Center)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15284",
+      "StopID": "15284",
+      "StopName": {
+        "Zh_tw": "發電所(西松高中)",
+        "En": "Power Sta. (Xisong High School)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15282",
+      "StopID": "15282",
+      "StopName": {
+        "Zh_tw": "南松山(塔悠)",
+        "En": "Nansongshan (Tayou)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 188,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15288",
+      "StopID": "15288",
+      "StopName": {
+        "Zh_tw": "莊敬里",
+        "En": "Zhuangjing Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 391,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15286",
+      "StopID": "15286",
+      "StopName": {
+        "Zh_tw": "新東里",
+        "En": "Xindong Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 88,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15280",
+      "StopID": "15280",
+      "StopName": {
+        "Zh_tw": "南松山(南京)",
+        "En": "Nansongshan (Nanjing)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 57,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15296",
+      "StopID": "15296",
+      "StopName": {
+        "Zh_tw": "新益里",
+        "En": "Xinyi Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 100,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15294",
+      "StopID": "15294",
+      "StopName": {
+        "Zh_tw": "莊敬里",
+        "En": "Zhuangjing Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15299",
+      "StopID": "15299",
+      "StopName": {
+        "Zh_tw": "新東里",
+        "En": "Xindong Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 260,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15298",
+      "StopID": "15298",
+      "StopName": {
+        "Zh_tw": "民生國中",
+        "En": "Minsheng Junior High School"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 202,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15292",
+      "StopID": "15292",
+      "StopName": {
+        "Zh_tw": "新益里",
+        "En": "Xinyi Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 266,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15290",
+      "StopID": "15290",
+      "StopName": {
+        "Zh_tw": "民生國中",
+        "En": "Minsheng Junior High School"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 167,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15262",
+      "StopID": "15262",
+      "StopName": {
+        "Zh_tw": "南京吉林路口",
+        "En": "Nanjing & Jilin Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 64,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15260",
+      "StopID": "15260",
+      "StopName": {
+        "Zh_tw": "林森北路一",
+        "En": "LinSen N. Rd. 1"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 161,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15266",
+      "StopID": "15266",
+      "StopName": {
+        "Zh_tw": "南京建國路口",
+        "En": "Nanjing & Jianguo Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 264,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15264",
+      "StopID": "15264",
+      "StopName": {
+        "Zh_tw": "捷運松江南京站",
+        "En": "MRT Songjiang Nanjing Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 112,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15268",
+      "StopID": "15268",
+      "StopName": {
+        "Zh_tw": "南京龍江路口",
+        "En": "Nanjing & Longjiang Roads"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 57,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15274",
+      "StopID": "15274",
+      "StopName": {
+        "Zh_tw": "南京寧安街口",
+        "En": "Nanjing & Ningan Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 409,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15272",
+      "StopID": "15272",
+      "StopName": {
+        "Zh_tw": "南京敦化路口(小巨蛋)",
+        "En": "Nanjing & Dunhua Intersection (Taipei Arena)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 243,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15278",
+      "StopID": "15278",
+      "StopName": {
+        "Zh_tw": "南京公寓(捷運南京三民)",
+        "En": "Nanjing Apartment (MRT Nanjing Sanmin Sta.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15276",
+      "StopID": "15276",
+      "StopName": {
+        "Zh_tw": "南京三民路口",
+        "En": "NanJing-SanMin Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15270",
+      "StopID": "15270",
+      "StopName": {
+        "Zh_tw": "捷運南京復興站",
+        "En": "MRT Nanjing Fuxing Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 103,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15240",
+      "StopID": "15240",
+      "StopName": {
+        "Zh_tw": "莒光派出所",
+        "En": "Juguang Police Substation"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 490,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15244",
+      "StopID": "15244",
+      "StopName": {
+        "Zh_tw": "聯合醫院和平院區",
+        "En": "TCUH, Heping Branch"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 632,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15242",
+      "StopID": "15242",
+      "StopName": {
+        "Zh_tw": "大埔街",
+        "En": "Dapu St."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 547,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15248",
+      "StopID": "15248",
+      "StopName": {
+        "Zh_tw": "中華路北站",
+        "En": "Zhonghua Rd. N. Stop"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 161,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15246",
+      "StopID": "15246",
+      "StopName": {
+        "Zh_tw": "捷運西門站",
+        "En": "MRT Ximen Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 19,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15252",
+      "StopID": "15252",
+      "StopName": {
+        "Zh_tw": "行政院",
+        "En": "Executive Yuan"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 210,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15250",
+      "StopID": "15250",
+      "StopName": {
+        "Zh_tw": "臺北車站(忠孝)",
+        "En": "Taipei Main Sta. (Zhongxiao)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 144,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15256",
+      "StopID": "15256",
+      "StopName": {
+        "Zh_tw": "北平林森路口",
+        "En": "Beiping and Linsen Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15254",
+      "StopID": "15254",
+      "StopName": {
+        "Zh_tw": "青島林森路口",
+        "En": "Qingdao & Linsen Roads"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 304,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15258",
+      "StopID": "15258",
+      "StopName": {
+        "Zh_tw": "華山公園",
+        "En": "Huashan Park"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 74,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15222",
+      "StopID": "15222",
+      "StopName": {
+        "Zh_tw": "台貿一村",
+        "En": "Taimao Village 1"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15220",
+      "StopID": "15220",
+      "StopName": {
+        "Zh_tw": "連城錦和路口(暫時裁撤)",
+        "En": "Liancheng Jinhe Rd. Entrance"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 79,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15226",
+      "StopID": "15226",
+      "StopName": {
+        "Zh_tw": "連城景平路(暫時裁撤)",
+        "En": "Liancheng & Jingping Rd."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 145,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15224",
+      "StopID": "15224",
+      "StopName": {
+        "Zh_tw": "中和國稅局",
+        "En": "National Taxation Bureau Jhonghe Office"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15228",
+      "StopID": "15228",
+      "StopName": {
+        "Zh_tw": "華中橋",
+        "En": "Huazhong Bridge"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 31,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15230",
+      "StopID": "15230",
+      "StopName": {
+        "Zh_tw": "果菜市場",
+        "En": "Wholesale Fruit and Vegetable Market"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 251,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15234",
+      "StopID": "15234",
+      "StopName": {
+        "Zh_tw": "德昌街口",
+        "En": "Dechang St. Entrance"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 263,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15232",
+      "StopID": "15232",
+      "StopName": {
+        "Zh_tw": "萬大國小",
+        "En": "Wanda Elementary School"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 188,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15238",
+      "StopID": "15238",
+      "StopName": {
+        "Zh_tw": "萬大路",
+        "En": "Wanda Rd."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 416,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15236",
+      "StopID": "15236",
+      "StopName": {
+        "Zh_tw": "西藏路口",
+        "En": "Xizang Rd. Entrance"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 326,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15201",
+      "StopID": "15201",
+      "StopName": {
+        "Zh_tw": "大庭新村",
+        "En": "Dating New Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 124,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15200",
+      "StopID": "15200",
+      "StopName": {
+        "Zh_tw": "港尾福德宮",
+        "En": "Gangwei Fude Temple"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 52,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15205",
+      "StopID": "15205",
+      "StopName": {
+        "Zh_tw": "捷運府中站(府中路)",
+        "En": "MRT Fuzhong Station(Fuzhong Rd.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 474,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15204",
+      "StopID": "15204",
+      "StopName": {
+        "Zh_tw": "北門街(黃石市場)",
+        "En": "Beimen St.(Huangshi Market)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 406,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15203",
+      "StopID": "15203",
+      "StopName": {
+        "Zh_tw": "板橋戶政事務所",
+        "En": "Banqiao Household Registration Office"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 226,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15202",
+      "StopID": "15202",
+      "StopName": {
+        "Zh_tw": "社后",
+        "En": "Shehou"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 179,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15209",
+      "StopID": "15209",
+      "StopName": {
+        "Zh_tw": "電信訓練所",
+        "En": "Telecommunications Training Center"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 150,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15208",
+      "StopID": "15208",
+      "StopName": {
+        "Zh_tw": "民族區運路口",
+        "En": "Minzu & Quyun  Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 108,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15207",
+      "StopID": "15207",
+      "StopName": {
+        "Zh_tw": "新北板橋公車站",
+        "En": "NTPC Banqiao Bus Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 305,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15206",
+      "StopID": "15206",
+      "StopName": {
+        "Zh_tw": "萬坪公園",
+        "En": "Zhuifeng Square"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 114,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15212",
+      "StopID": "15212",
+      "StopName": {
+        "Zh_tw": "板橋監理站",
+        "En": "Banqiao Motor Vehicle Supervision Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 375,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15211",
+      "StopID": "15211",
+      "StopName": {
+        "Zh_tw": "環球購物中心",
+        "En": "Globall Mall"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 247,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15210",
+      "StopID": "15210",
+      "StopName": {
+        "Zh_tw": "國泰街口",
+        "En": "Guotai St. Entrance"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 67,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15216",
+      "StopID": "15216",
+      "StopName": {
+        "Zh_tw": "員山派出所",
+        "En": "Yuanshan Police Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 916,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15215",
+      "StopID": "15215",
+      "StopName": {
+        "Zh_tw": "積穗國中",
+        "En": "Jisui Junior High School"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 748,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15214",
+      "StopID": "15214",
+      "StopName": {
+        "Zh_tw": "員山公園",
+        "En": "Yuanshan Park"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 662,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15213",
+      "StopID": "15213",
+      "StopName": {
+        "Zh_tw": "積穗",
+        "En": "Jisui"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 429,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15219",
+      "StopID": "15219",
+      "StopName": {
+        "Zh_tw": "連城中正路口",
+        "En": "Liancheng Zhongzheng Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 105,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15218",
+      "StopID": "15218",
+      "StopName": {
+        "Zh_tw": "連城路",
+        "En": "Liancheng Rd."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 1086,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15217",
+      "StopID": "15217",
+      "StopName": {
+        "Zh_tw": "中和高中(員山路)",
+        "En": "Zhonghe High School(Yuanshan Rd.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 982,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15300",
+      "StopID": "15300",
+      "StopName": {
+        "Zh_tw": "發電所(西松高中)",
+        "En": "Power Sta. (Xisong High School)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 300,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15309",
+      "StopID": "15309",
+      "StopName": {
+        "Zh_tw": "南京建國路口",
+        "En": "Nanjing & Jianguo Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 95,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15304",
+      "StopID": "15304",
+      "StopName": {
+        "Zh_tw": "南京三民路口",
+        "En": "NanJing-SanMin Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 186,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15303",
+      "StopID": "15303",
+      "StopName": {
+        "Zh_tw": "南京公寓(捷運南京三民)",
+        "En": "Nanjing Apartment (MRT Nanjing Sanmin Sta.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15302",
+      "StopID": "15302",
+      "StopName": {
+        "Zh_tw": "南松山(南京)",
+        "En": "Nansongshan (Nanjing)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 467,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15301",
+      "StopID": "15301",
+      "StopName": {
+        "Zh_tw": "南松山(塔悠)",
+        "En": "Nansongshan (Tayou)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 390,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15308",
+      "StopID": "15308",
+      "StopName": {
+        "Zh_tw": "南京龍江路口",
+        "En": "Nanjing & Longjiang Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 131,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15307",
+      "StopID": "15307",
+      "StopName": {
+        "Zh_tw": "捷運南京復興站",
+        "En": "MRT Nanjing Fuxing Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 403,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15306",
+      "StopID": "15306",
+      "StopName": {
+        "Zh_tw": "南京敦化路口(小巨蛋)",
+        "En": "Nanjing & Dunhua Intersection (Taipei Arena)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 269,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15305",
+      "StopID": "15305",
+      "StopName": {
+        "Zh_tw": "南京寧安街口",
+        "En": "Nanjing & Ningan Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 111,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15311",
+      "StopID": "15311",
+      "StopName": {
+        "Zh_tw": "南京吉林路口",
+        "En": "Nanjing & Jilin Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 323,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15310",
+      "StopID": "15310",
+      "StopName": {
+        "Zh_tw": "捷運松江南京站",
+        "En": "MRT Songjiang Nanjing Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 230,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15315",
+      "StopID": "15315",
+      "StopName": {
+        "Zh_tw": "臺北車站(忠孝)",
+        "En": "Taipei Main Sta. (Zhongxiao)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 194,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15314",
+      "StopID": "15314",
+      "StopName": {
+        "Zh_tw": "行政院",
+        "En": "Executive Yuan"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15313",
+      "StopID": "15313",
+      "StopName": {
+        "Zh_tw": "中山市場",
+        "En": "ZhongShan Market"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 177,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15312",
+      "StopID": "15312",
+      "StopName": {
+        "Zh_tw": "南京林森路口",
+        "En": "Nanjing & Linsen Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 450,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15319",
+      "StopID": "15319",
+      "StopName": {
+        "Zh_tw": "聯合醫院和平院區",
+        "En": "Hoping Hospital"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 129,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15318",
+      "StopID": "15318",
+      "StopName": {
+        "Zh_tw": "小南門",
+        "En": "Xiaonanmen"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 50,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15317",
+      "StopID": "15317",
+      "StopName": {
+        "Zh_tw": "捷運西門站",
+        "En": "MRT Ximen Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 222,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15316",
+      "StopID": "15316",
+      "StopName": {
+        "Zh_tw": "中華路北站",
+        "En": "Zhonghua Rd. N. Stop"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 109,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15384",
+      "StopID": "15384",
+      "StopName": {
+        "Zh_tw": "民族區運路口",
+        "En": "Minzu & Quyun  Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 256,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15383",
+      "StopID": "15383",
+      "StopName": {
+        "Zh_tw": "電信訓練所",
+        "En": "Telecommunications Training Center"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 160,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15382",
+      "StopID": "15382",
+      "StopName": {
+        "Zh_tw": "國泰街口",
+        "En": "Guotai St. Entrance"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 112,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15388",
+      "StopID": "15388",
+      "StopName": {
+        "Zh_tw": "社后",
+        "En": "Shehou"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 153,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15387",
+      "StopID": "15387",
+      "StopName": {
+        "Zh_tw": "板橋戶政事務所",
+        "En": "Banqiao Household Registration Office"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 98,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15386",
+      "StopID": "15386",
+      "StopName": {
+        "Zh_tw": "北門街(黃石市場)",
+        "En": "Beimen St.(Huangshi Market)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 158,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15385",
+      "StopID": "15385",
+      "StopName": {
+        "Zh_tw": "新北板橋公車站",
+        "En": "NTPC Banqiao Bus Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 660,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15389",
+      "StopID": "15389",
+      "StopName": {
+        "Zh_tw": "大庭新村",
+        "En": "Dating New Village"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 116,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15394",
+      "StopID": "15394",
+      "StopName": {
+        "Zh_tw": "名來新城(中正路)",
+        "En": "Minglai New Village(Zhongzheng Rd.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 184,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15392",
+      "StopID": "15392",
+      "StopName": {
+        "Zh_tw": "板橋國中(435藝文特區)",
+        "En": "Banqiao Jr. High School (435 Art Center)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 127,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15391",
+      "StopID": "15391",
+      "StopName": {
+        "Zh_tw": "港尾",
+        "En": "Gangwei"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 58,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15390",
+      "StopID": "15390",
+      "StopName": {
+        "Zh_tw": "港尾福德宮",
+        "En": "Gangwei Fude Temple"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 73,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15340",
+      "StopID": "15340",
+      "StopName": {
+        "Zh_tw": "環球購物中心",
+        "En": "Globall Mall"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 183,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15322",
+      "StopID": "15322",
+      "StopName": {
+        "Zh_tw": "萬大路",
+        "En": "Wanda Rd."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 122,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15321",
+      "StopID": "15321",
+      "StopName": {
+        "Zh_tw": "莒光派出所",
+        "En": "Juguang Police Substation"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 66,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15320",
+      "StopID": "15320",
+      "StopName": {
+        "Zh_tw": "大埔街",
+        "En": "Dapu St."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 12,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15326",
+      "StopID": "15326",
+      "StopName": {
+        "Zh_tw": "果菜市場",
+        "En": "Wholesale Fruit and Vegetable Market"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 108,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15325",
+      "StopID": "15325",
+      "StopName": {
+        "Zh_tw": "萬大國小",
+        "En": "Wanda Elementary School"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "StopStatus": 2,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15324",
+      "StopID": "15324",
+      "StopName": {
+        "Zh_tw": "德昌街口",
+        "En": "Dechang St. Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 39,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15323",
+      "StopID": "15323",
+      "StopName": {
+        "Zh_tw": "西藏路口",
+        "En": "Xizang Rd. Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 195,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15329",
+      "StopID": "15329",
+      "StopName": {
+        "Zh_tw": "中和國稅局",
+        "En": "National Taxation Bureau Jhonghe Office"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 707,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15328",
+      "StopID": "15328",
+      "StopName": {
+        "Zh_tw": "連城景平路(暫時裁撤)",
+        "En": "Liancheng & Jingping Rd."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 664,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15327",
+      "StopID": "15327",
+      "StopName": {
+        "Zh_tw": "華中橋",
+        "En": "Huazhong Bridge"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 365,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15333",
+      "StopID": "15333",
+      "StopName": {
+        "Zh_tw": "連城路",
+        "En": "Liancheng Rd."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 352,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15332",
+      "StopID": "15332",
+      "StopName": {
+        "Zh_tw": "連城中正路口",
+        "En": "Liancheng Zhongzheng Intersection"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 192,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15331",
+      "StopID": "15331",
+      "StopName": {
+        "Zh_tw": "連城錦和路口(暫時裁撤)",
+        "En": "Liancheng Jinhe Rd. Entrance"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15330",
+      "StopID": "15330",
+      "StopName": {
+        "Zh_tw": "台貿一村",
+        "En": "Taimao Village 1"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 762,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15337",
+      "StopID": "15337",
+      "StopName": {
+        "Zh_tw": "員山公園",
+        "En": "Yuanshan Park"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 61,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15336",
+      "StopID": "15336",
+      "StopName": {
+        "Zh_tw": "積穗國中",
+        "En": "Jisui Junior High School"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15335",
+      "StopID": "15335",
+      "StopName": {
+        "Zh_tw": "員山派出所",
+        "En": "Yuanshan Police Station"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 565,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15334",
+      "StopID": "15334",
+      "StopName": {
+        "Zh_tw": "中和高中(員山路)",
+        "En": "Zhonghe High School(Yuanshan Rd.)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 467,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15339",
+      "StopID": "15339",
+      "StopName": {
+        "Zh_tw": "板橋監理站",
+        "En": "Banqiao Motor Vehicle Supervision Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 88,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE15338",
+      "StopID": "15338",
+      "StopName": {
+        "Zh_tw": "積穗",
+        "En": "Jisui"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE194687",
+      "StopID": "194687",
+      "StopName": {
+        "Zh_tw": "臺北客運板橋前站(藝文)",
+        "En": "Taipei Bus Banqiao Station (Art)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE194689",
+      "StopID": "194689",
+      "StopName": {
+        "Zh_tw": "臺北客運板橋前站(藝文)",
+        "En": "Taipei Bus Banqiao Station (Art)"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE194688",
+      "StopID": "194688",
+      "StopName": {
+        "Zh_tw": "新月橋",
+        "En": "Xinyue Bridge"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE201703",
+      "StopID": "201703",
+      "StopName": {
+        "Zh_tw": "捷運中和站",
+        "En": "MRT Zhonghe Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 567,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE201702",
+      "StopID": "201702",
+      "StopName": {
+        "Zh_tw": "捷運中和站",
+        "En": "MRT Zhonghe Sta."
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 0,
+      "EstimateTime": 159,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    },
+    {
+      "StopUID": "TPE59444",
+      "StopID": "59444",
+      "StopName": {
+        "Zh_tw": "萬坪公園",
+        "En": "Zhuifeng Square"
+      },
+      "RouteUID": "TPE16111",
+      "RouteID": "16111",
+      "RouteName": {
+        "Zh_tw": "307",
+        "En": "307"
+      },
+      "Direction": 1,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:04:42+08:00",
+      "UpdateTime": "2025-12-08T18:04:46+08:00"
+    }
+  ]
+}

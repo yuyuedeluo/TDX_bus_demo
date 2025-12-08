@@ -1,0 +1,1278 @@
+{
+  "timestamp": "2025-12-08T18:37:07.861247",
+  "data": [
+    {
+      "StopUID": "TPE57712",
+      "StopID": "57712",
+      "StopName": {
+        "Zh_tw": "靜心高中",
+        "En": "Chingshin Academy"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1076,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE134754",
+      "StopID": "134754",
+      "StopName": {
+        "Zh_tw": "政大一",
+        "En": "National Chengchi U. 1"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 844,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE134755",
+      "StopID": "134755",
+      "StopName": {
+        "Zh_tw": "政大一",
+        "En": "National Chengchi U. 1"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1237,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE151302",
+      "StopID": "151302",
+      "StopName": {
+        "Zh_tw": "文山運動中心(興隆)",
+        "En": "Wenshan Sports Center (Xinglong)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 223,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE58565",
+      "StopID": "58565",
+      "StopName": {
+        "Zh_tw": "貓纜動物園南站",
+        "En": "Maokong Gondola Taipei Zoo Station"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1392,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE58564",
+      "StopID": "58564",
+      "StopName": {
+        "Zh_tw": "綠野山莊",
+        "En": "Greenfield Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 668,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE58566",
+      "StopID": "58566",
+      "StopName": {
+        "Zh_tw": "綠野山莊",
+        "En": "Greenfield Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1464,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19919",
+      "StopID": "19919",
+      "StopName": {
+        "Zh_tw": "指南路",
+        "En": "Zhinan Rd."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 1188,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19918",
+      "StopID": "19918",
+      "StopName": {
+        "Zh_tw": "新光路口",
+        "En": "Xinguang Rd. Entrance"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 1029,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19915",
+      "StopID": "19915",
+      "StopName": {
+        "Zh_tw": "國關中心",
+        "En": "The Institute of International Relations"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 765,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19914",
+      "StopID": "19914",
+      "StopName": {
+        "Zh_tw": "政大清境社區",
+        "En": "Chengda Qingjing Community"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 694,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19916",
+      "StopID": "19916",
+      "StopName": {
+        "Zh_tw": "指南山莊",
+        "En": "Zhinan Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 785,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19911",
+      "StopID": "19911",
+      "StopName": {
+        "Zh_tw": "猴山坑",
+        "En": "Houshankeng"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 574,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19913",
+      "StopID": "19913",
+      "StopName": {
+        "Zh_tw": "棲霞山莊",
+        "En": "Qixia Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 652,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19912",
+      "StopID": "19912",
+      "StopName": {
+        "Zh_tw": "政大御花園",
+        "En": "Zhengda Yuhuayuan"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 627,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19962",
+      "StopID": "19962",
+      "StopName": {
+        "Zh_tw": "指南路口",
+        "En": "Zhinan Rd. Entrance"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 980,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19961",
+      "StopID": "19961",
+      "StopName": {
+        "Zh_tw": "永安街",
+        "En": "Yongan St."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 889,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19964",
+      "StopID": "19964",
+      "StopName": {
+        "Zh_tw": "指南山莊",
+        "En": "Zhinan Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1309,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19963",
+      "StopID": "19963",
+      "StopName": {
+        "Zh_tw": "政大",
+        "En": "National Chengchi U."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1088,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19960",
+      "StopID": "19960",
+      "StopName": {
+        "Zh_tw": "木柵市場",
+        "En": "Muzha Market"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 815,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19969",
+      "StopID": "19969",
+      "StopName": {
+        "Zh_tw": "猴山坑",
+        "En": "Hou Zih Keng"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1585,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19966",
+      "StopID": "19966",
+      "StopName": {
+        "Zh_tw": "政大清境社區",
+        "En": "Chengda Qingjing Community"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1422,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19965",
+      "StopID": "19965",
+      "StopName": {
+        "Zh_tw": "國關中心",
+        "En": "The Institute of International Relations"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1339,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19968",
+      "StopID": "19968",
+      "StopName": {
+        "Zh_tw": "政大御花園",
+        "En": "Zhengda Yuhuayuan"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1524,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19967",
+      "StopID": "19967",
+      "StopName": {
+        "Zh_tw": "棲霞山莊",
+        "En": "Qixia Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1493,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19970",
+      "StopID": "19970",
+      "StopName": {
+        "Zh_tw": "指南宮",
+        "En": "Zhinan Temple"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1671,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19940",
+      "StopID": "19940",
+      "StopName": {
+        "Zh_tw": "溫州街口",
+        "En": "Wenzhou St. Entrance"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 180,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19942",
+      "StopID": "19942",
+      "StopName": {
+        "Zh_tw": "臺大",
+        "En": "National Taiwan U."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 312,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19941",
+      "StopID": "19941",
+      "StopName": {
+        "Zh_tw": "臺大綜合體育館",
+        "En": "NTU Sports Center"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 246,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19948",
+      "StopID": "19948",
+      "StopName": {
+        "Zh_tw": "興隆市場",
+        "En": "Xinglong Market"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1129,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19947",
+      "StopID": "19947",
+      "StopName": {
+        "Zh_tw": "憲光公寓",
+        "En": "Xianguang Apartment"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 983,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19949",
+      "StopID": "19949",
+      "StopName": {
+        "Zh_tw": "興德國小",
+        "En": "Xingde Elementary School"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1182,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19944",
+      "StopID": "19944",
+      "StopName": {
+        "Zh_tw": "師大分部",
+        "En": "National Taiwan Normal University Branch"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 672,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19943",
+      "StopID": "19943",
+      "StopName": {
+        "Zh_tw": "捷運公館站",
+        "En": "MRT Gongguan Sta."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 537,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19946",
+      "StopID": "19946",
+      "StopName": {
+        "Zh_tw": "景明街口",
+        "En": "Jingming St. Entrance"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 922,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19945",
+      "StopID": "19945",
+      "StopName": {
+        "Zh_tw": "武功國小(興隆)",
+        "En": "Changan Elementary School (Xinglong)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 825,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19950",
+      "StopID": "19950",
+      "StopName": {
+        "Zh_tw": "興隆國小",
+        "En": "Xinglong Elementary School"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1280,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19953",
+      "StopID": "19953",
+      "StopName": {
+        "Zh_tw": "臺灣警察專科學校",
+        "En": "Taiwan Police College"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 158,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19952",
+      "StopID": "19952",
+      "StopName": {
+        "Zh_tw": "捷運萬芳醫院站",
+        "En": "MRT Wanfang Hospital Sta."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 1413,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19959",
+      "StopID": "19959",
+      "StopName": {
+        "Zh_tw": "木柵",
+        "En": "Muzha"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 737,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19958",
+      "StopID": "19958",
+      "StopName": {
+        "Zh_tw": "文山一分局",
+        "En": "Wenshan Police Sta. 1"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 654,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19955",
+      "StopID": "19955",
+      "StopName": {
+        "Zh_tw": "海巡署一",
+        "En": "Coast Guard Administration 1"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 300,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19954",
+      "StopID": "19954",
+      "StopName": {
+        "Zh_tw": "海巡署",
+        "En": "Coast Guard Administration"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 265,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19957",
+      "StopID": "19957",
+      "StopName": {
+        "Zh_tw": "馬明潭(再興中學)",
+        "En": "Mamingtan (Zaixing High School)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 454,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19956",
+      "StopID": "19956",
+      "StopName": {
+        "Zh_tw": "興隆山莊",
+        "En": "Xinglong Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 1,
+      "EstimateTime": 343,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19920",
+      "StopID": "19920",
+      "StopName": {
+        "Zh_tw": "木柵市場",
+        "En": "Muzha Market"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 1260,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19929",
+      "StopID": "19929",
+      "StopName": {
+        "Zh_tw": "捷運萬芳醫院站",
+        "En": "MRT Wanfang Hospital Sta."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 237,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19926",
+      "StopID": "19926",
+      "StopName": {
+        "Zh_tw": "海巡署",
+        "En": "Coast Guard Administration"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 66,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19925",
+      "StopID": "19925",
+      "StopName": {
+        "Zh_tw": "海巡署一",
+        "En": "Coast Guard Administration 1"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 29,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19928",
+      "StopID": "19928",
+      "StopName": {
+        "Zh_tw": "臺灣警察專科學校",
+        "En": "Taiwan Police College"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 194,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19927",
+      "StopID": "19927",
+      "StopName": {
+        "Zh_tw": "文山運動中心(興隆)",
+        "En": "Wenshan Sports Center (Xinglong)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 119,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19922",
+      "StopID": "19922",
+      "StopName": {
+        "Zh_tw": "文山一分局",
+        "En": "Wenshan Police Sta. 1"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 1514,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19921",
+      "StopID": "19921",
+      "StopName": {
+        "Zh_tw": "木柵",
+        "En": "Muzha"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 1388,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19924",
+      "StopID": "19924",
+      "StopName": {
+        "Zh_tw": "興隆山莊",
+        "En": "Xinglong Shanzhuang"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 0,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19923",
+      "StopID": "19923",
+      "StopName": {
+        "Zh_tw": "馬明潭(再興中學)",
+        "En": "Mamingtan (Zaixing High School)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 1698,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19931",
+      "StopID": "19931",
+      "StopName": {
+        "Zh_tw": "興隆國小",
+        "En": "Xinglong Elementary School"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 700,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19930",
+      "StopID": "19930",
+      "StopName": {
+        "Zh_tw": "中國科技大學(興隆)",
+        "En": "China University of Technology (Xinglong)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 401,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19937",
+      "StopID": "19937",
+      "StopName": {
+        "Zh_tw": "師大分部",
+        "En": "National Taiwan Normal University Branch"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 404,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19936",
+      "StopID": "19936",
+      "StopName": {
+        "Zh_tw": "武功國小(興隆)",
+        "En": "Changan Elementary School (Xinglong)"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 311,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19939",
+      "StopID": "19939",
+      "StopName": {
+        "Zh_tw": "台電大樓",
+        "En": "Taipower Building"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 759,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19938",
+      "StopID": "19938",
+      "StopName": {
+        "Zh_tw": "捷運公館站",
+        "En": "MRT Gongguan Sta."
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 602,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19933",
+      "StopID": "19933",
+      "StopName": {
+        "Zh_tw": "興隆市場",
+        "En": "Xinglong Market"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 872,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19932",
+      "StopID": "19932",
+      "StopName": {
+        "Zh_tw": "興德國小",
+        "En": "Xingde Elementary School"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 779,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19935",
+      "StopID": "19935",
+      "StopName": {
+        "Zh_tw": "景明街口",
+        "En": "Jingming St. Entrance"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 197,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE19934",
+      "StopID": "19934",
+      "StopName": {
+        "Zh_tw": "憲光公寓",
+        "En": "Xianguang Apartment"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 140,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE170946",
+      "StopID": "170946",
+      "StopName": {
+        "Zh_tw": "靜心高中",
+        "En": "Chingshin Academy"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 54,
+      "StopStatus": 0,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    },
+    {
+      "StopUID": "TPE21591",
+      "StopID": "21591",
+      "StopName": {
+        "Zh_tw": "指南宮",
+        "En": "Dispatch Station ZhiNan Temple Station"
+      },
+      "RouteUID": "TPE15164",
+      "RouteID": "15164",
+      "RouteName": {
+        "Zh_tw": "530",
+        "En": "530"
+      },
+      "Direction": 0,
+      "EstimateTime": 503,
+      "StopStatus": 1,
+      "SrcUpdateTime": "2025-12-08T18:36:59+08:00",
+      "UpdateTime": "2025-12-08T18:37:01+08:00"
+    }
+  ]
+}
