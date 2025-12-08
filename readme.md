@@ -193,8 +193,6 @@ ETA 會每 15 秒重新讀一次 `*_bus.json`，讓畫面保持接近即時。
 - 🐍 **Python fetcher** calls TDX API every 60 seconds and writes JSON to `data/`.
 - 📄 **Hybrid static architecture**: frontend loads local JSON only, no backend needed.
 - 🧭 **Multi-route support** via URL parameter `?route=`.
-- 🔁 **Two directions per route** with auto **first-stop → last-stop** labels.
-- 🎓 Perfect for teaching API / JSON / frontend rendering / Git basics.
 
 ---
 
