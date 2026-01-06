@@ -1,349 +1,59 @@
-# 🚍 TDX Bus Realtime Viewer  
+# 🚍 TDX Bus ETA (FastAPI + Vue)
 
-台北 / 新北公車即時到站查詢小工具
+Windows-friendly demo that proxies TDX 公車 API with FastAPI and shows ETA per stop via a Vue (Vite) UI.
 
-> 使用 **TDX 運輸資料平臺 API + Python + 原生 HTML/JS** 打造的迷你公車板，  
-> 適合教學、Demo、或當作自己客製的等公車畫面。
+## 專案結構
 
----
-
-## 🌐 Language / 語言切換
-
-- 🇹🇼 **[中文說明 Chinese](#-中文說明-chinese)**
-- 🇬🇧 **[English Guide](#-english-guide)**
-
----
-
-## 🇹🇼 中文說明 Chinese
-
-### ✨ 專案特色
-
-- 🐍 **Python 排程抓取**  
-  每 60 秒呼叫 TDX API，更新本地 JSON 檔。
-- 📄 **半靜態 JSON 架構**  
-  前端只讀 `data/*.json`，不需要真正的後端 API。
-- 🧭 **多路線切換**  
-  透過網址參數 `?route=` 切換，例如 `307 / 236 / 530`。
-
----
-
-### 📁 專案結構
-
-```text
+```
 tdx-bus-demo/
-│
-├─ data/                      # 半靜態 JSON 資料
-│   ├─ 307_bus.json
-│   ├─ 307_bus_stop_info.json
-│   ├─ 236_bus.json
-│   ├─ 236_bus_stop_info.json
-│   └─ ...
-│
-├─ fetch/                     # Python 抓資料腳本
-│   └─ fetch_bus.py
-│
-└─ web/                       # 前端頁面
-    └─ index.html
-````
-
----
-
-### 🐍 啟動資料抓取（fetch_bus.py）
-
-1. 安裝套件：
-
-   ```bash
-   pip install requests
-   ```
-
-2. 編輯 `fetch/fetch_bus.py`：
-
-   ```python
-   ROUTE = "307"        # 想抓的公車路線，例如 "307" / "236" / "530"
-   TDX_APP_ID = "YOUR_APP_ID"
-   TDX_APP_KEY = "YOUR_APP_KEY"
-   ```
-
-3. 在 `fetch` 資料夾執行：
-
-   ```bash
-   cd fetch
-   python fetch_bus.py
-   ```
-
-   這支程式會每 60 秒呼叫 TDX API，並更新：
-
-   ```text
-   data/{ROUTE}_bus.json             # 即時到站資訊
-   data/{ROUTE}_bus_stop_info.json   # 站牌與路線結構
-   ```
-
----
-
-### 🌐 啟動前端頁面（index.html）
-
-1. 建議在專案根目錄開一個本機伺服器：
-
-   ```bash
-   cd tdx-bus-demo
-   python -m http.server 8000
-   ```
-
-2. 瀏覽器打開：
-
-   ```text
-   http://localhost:8000/web/index.html
-   ```
-
----
-
-### 🔄 路線切換方式
-
-本專案使用網址參數 `?route=` 來決定要讀哪個 JSON 檔案。
-
-假設 `data/` 內有：
-
-```text
-307_bus.json
-307_bus_stop_info.json
-236_bus.json
-236_bus_stop_info.json
+├─ backend/            # FastAPI service
+│  ├─ app/main.py
+│  └─ requirements.txt
+├─ frontend/           # Vue 3 + Vite UI
+│  ├─ index.html
+│  └─ src/
+├─ .env.example        # 範例環境變數 (backend / frontend)
+└─ .github/            # PR / issue templates
 ```
 
-可以這樣切換：
+## 安裝需求
+- Python 3.10+（建議使用 venv）
+- Node.js 18+ / npm 8+
 
-```text
-http://localhost:8000/web/index.html?route=307
-http://localhost:8000/web/index.html?route=236
-http://localhost:8000/web/index.html?route=530
+## 環境變數
+- 複製 `.env.example` 成 `backend/.env`，填入 `TDX_APP_ID`、`TDX_APP_KEY`
+- 複製 `.env.example` 成 `frontend/.env`，調整 `VITE_API_BASE` 如需要
+
+## 啟動 Backend（FastAPI）
+```powershell
+python -m venv .venv
+.\.venv\Scripts\activate
+pip install -r backend/requirements.txt
+copy .env.example backend\.env  # 或手動建立
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000 --app-dir backend
 ```
 
-JavaScript 會依 `route` 組出：
+### 主要 API
+- `GET /api/routes/{route}/eta?city=Taipei` — 直通 `/v2/Bus/EstimatedTimeOfArrival/City/{City}/{RouteName}`
+- `GET /api/routes/{route}/stops?city=Taipei` — 直通 `/v2/Bus/StopOfRoute/City/{City}/{RouteName}`
+- `GET /api/routes/{route}/stop-etas?city=Taipei` — 後端合併站點順序與 ETA，前端使用
 
-```text
-../data/{ROUTE}_bus.json
-../data/{ROUTE}_bus_stop_info.json
+## 啟動 Frontend（Vite + Vue）
+```powershell
+cd frontend
+copy ..\.env.example .env  # 或手動建立，只需 VITE_* 變數
+npm install
+npm run dev -- --host
 ```
+預設會呼叫 `http://localhost:8000` 作為 API。
 
-並自動更新畫面。
+## 使用方式
+1. 啟動 backend 與 frontend
+2. 打開瀏覽器 `http://localhost:5173`
+3. 輸入路線號碼（如 307），選擇城市（Taipei / NewTaipei 等），點擊「查詢」
+4. 介面會顯示去程/回程分頁與各站預估到站時間
 
----
-
-### 🧷 介面說明
-
-- 上方藍色標頭顯示：
-
-  - 公車路線編號（例如：307）
-  - 最近更新時間（例如：更新 17:30:05）
-- 藍底白框的 **方向按鈕** 會自動顯示：
-
-  - `莒光里→撫遠街`
-  - `莒光里→板橋前站`
-- 下方站牌列表：
-
-  - 左側：`進站中 / 2 分 / 5 分 / 未營運` 等 ETA 標籤
-  - 中間：時間軸圓點
-  - 右側：站名（中英）
-
-ETA 會每 15 秒重新讀一次 `*_bus.json`，讓畫面保持接近即時。
-
----
-
-### 📦 JSON 資料格式簡述
-
-**到站資訊 `{ROUTE}_bus.json`：**
-
-```json
-{
-  "timestamp": "2025-12-08T17:30:01.043767",
-  "data": [
-    {
-      "StopUID": "TPE153800",
-      "RouteName": { "Zh_tw": "307" },
-      "Direction": 0,
-      "EstimateTime": 142,
-      "StopStatus": 0
-    }
-  ]
-}
-```
-
-**站牌結構 `{ROUTE}_bus_stop_info.json`：**
-
-```json
-[
-  {
-    "RouteName": { "Zh_tw": "307" },
-    "SubRouteName": { "Zh_tw": "307莒光往板橋前站" },
-    "Direction": 1,
-    "Stops": [
-      { "StopSequence": 1, "StopName": { "Zh_tw": "莒光里" } },
-      { "StopSequence": 2, "StopName": { "Zh_tw": "新益里" } }
-    ]
-  }
-]
-```
-
----
-
-## 🇬🇧 English Guide
-
-### ✨ Features
-
-- 🐍 **Python fetcher** calls TDX API every 60 seconds and writes JSON to `data/`.
-- 📄 **Hybrid static architecture**: frontend loads local JSON only, no backend needed.
-- 🧭 **Multi-route support** via URL parameter `?route=`.
-
----
-
-### 📁 Project Structure
-
-```text
-tdx-bus-demo/
-│
-├─ data/
-│   ├─ 307_bus.json
-│   ├─ 307_bus_stop_info.json
-│   ├─ 236_bus.json
-│   ├─ 236_bus_stop_info.json
-│   └─ ...
-│
-├─ fetch/
-│   └─ fetch_bus.py
-│
-└─ web/
-    └─ index.html
-```
-
----
-
-### 🐍 Running the Fetcher
-
-1. Install dependency:
-
-   ```bash
-   pip install requests
-   ```
-
-2. Configure `fetch/fetch_bus.py`:
-
-   ```python
-   ROUTE = "307"              # route number: "307", "236", "530", ...
-   TDX_APP_ID = "YOUR_APP_ID"
-   TDX_APP_KEY = "YOUR_APP_KEY"
-   ```
-
-3. Run:
-
-   ```bash
-   cd fetch
-   python fetch_bus.py
-   ```
-
-This script will periodically write:
-
-- `data/{ROUTE}_bus.json` – ETA data (EstimatedTimeOfArrival API)
-- `data/{ROUTE}_bus_stop_info.json` – stop structure (StopOfRoute API)
-
----
-
-### 🌐 Running the Frontend
-
-From the project root:
-
-```bash
-python -m http.server 8000
-```
-
-Then open:
-
-```text
-http://localhost:8000/web/index.html
-```
-
----
-
-### 🔄 Switching Bus Routes
-
-Given JSON files:
-
-```text
-data/307_bus.json
-data/307_bus_stop_info.json
-data/236_bus.json
-data/236_bus_stop_info.json
-```
-
-You can switch like this:
-
-```text
-http://localhost:8000/web/index.html?route=307
-http://localhost:8000/web/index.html?route=236
-http://localhost:8000/web/index.html?route=530
-```
-
-The frontend will load:
-
-```text
-../data/{ROUTE}_bus.json
-../data/{ROUTE}_bus_stop_info.json
-```
-
-and re-render the UI.
-
----
-
-### 🧷 UI Overview
-
-- Header shows:
-
-  - Route number (e.g. `307`)
-  - Last update time
-- Direction tabs:
-
-  - `Zhuangjing → Fuyuan St.`
-  - `Zhuangjing → Banqiao Station`
-- Stop list:
-
-  - Left: ETA badge (`Arriving`, `2 min`, `5 min`, `Not in service`, …)
-  - Center: timeline dot
-  - Right: stop name (Chinese / English)
-
-ETA is refreshed every 15 seconds by reloading `{ROUTE}_bus.json`.
-
----
-
-### 📦 JSON Format (Overview)
-
-- `{ROUTE}_bus.json` – flattened ETA list
-
-```json
-{
-  "timestamp": "2025-12-08T17:30:01.043767",
-  "data": [
-    {
-      "StopUID": "TPE153800",
-      "RouteName": { "Zh_tw": "307" },
-      "Direction": 0,
-      "EstimateTime": 142,
-      "StopStatus": 0
-    }
-  ]
-}
-```
-
-- `{ROUTE}_bus_stop_info.json` – route directions & stop sequences
-
-```json
-[
-  {
-    "RouteName": { "Zh_tw": "307" },
-    "SubRouteName": { "Zh_tw": "307莒光往板橋前站" },
-    "Direction": 1,
-    "Stops": [
-      { "StopSequence": 1, "StopName": { "Zh_tw": "莒光里" } },
-      { "StopSequence": 2, "StopName": { "Zh_tw": "新益里" } }
-    ]
-  }
-]
-```
+## 備註
+- TDX City 參數請依官方代碼，常見：`Taipei`, `NewTaipei`, `Taoyuan`, `Taichung`, `Tainan`, `Kaohsiung`
+- 若要修改 CORS，調整 `FRONTEND_ORIGIN`（backend `.env`）
+- 如需部署，請改用正式的 Node / Uvicorn 啟動參數並處理憑證/Token 續期

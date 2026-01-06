@@ -1,0 +1,96 @@
+:root {
+  font-family: "Segoe UI", "Noto Sans TC", "Microsoft JhengHei", system-ui, -apple-system,
+    sans-serif;
+  color: var(--text);
+  background: var(--bg);
+  --bg: #f7f8fb;
+  --bg-accent1: #f0f5ff;
+  --bg-accent2: #fff3e6;
+  --card: #fff;
+  --text: #0d1a2d;
+  --muted: #42526b;
+  --muted-2: #5c6f91;
+  --border: #d8deeb;
+  --border-strong: #e6ecf5;
+  --accent: #2563eb;
+  --accent-2: #38bdf8;
+  --hint: #6b7a99;
+  --badge-bg: #e8edf7;
+  --badge-text: #1c2c46;
+  --badge-active-bg: #22c55e1a;
+  --badge-active-text: #0f9d46;
+  --badge-warning-bg: #fef2c0;
+  --badge-warning-text: #915103;
+  --badge-muted-bg: #ececf1;
+  --badge-muted-text: #6f7285;
+  --alert-bg: #fff6f2;
+  --alert-text: #b54708;
+  --alert-border: #ffd4bd;
+  --timeline: #cbd5e1;
+  --shadow: 0 12px 30px rgba(15, 31, 64, 0.08);
+}
+
+body.dark {
+  --bg: #0b1220;
+  --bg-accent1: #0f172a;
+  --bg-accent2: #0c1a2f;
+  --card: #0f172a;
+  --text: #e5ecff;
+  --muted: #b6c2d9;
+  --muted-2: #93a4c4;
+  --border: #1f2a44;
+  --border-strong: #26344f;
+  --accent: #2563eb;
+  --accent-2: #38bdf8;
+  --hint: #9fb2d7;
+  --badge-bg: #1c2842;
+  --badge-text: #e5ecff;
+  --badge-active-bg: #2ac26d33;
+  --badge-active-text: #68f1a3;
+  --badge-warning-bg: #3d2a12;
+  --badge-warning-text: #f7c266;
+  --badge-muted-bg: #252b3a;
+  --badge-muted-text: #9aa5c1;
+  --alert-bg: #2b1b12;
+  --alert-text: #f4c18e;
+  --alert-border: #4a2f1c;
+  --timeline: #334366;
+  --shadow: 0 10px 26px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(circle at 20% 20%, var(--bg-accent1), var(--bg) 40%),
+    radial-gradient(circle at 80% 10%, var(--bg-accent2), var(--bg) 35%);
+  min-height: 100vh;
+  color: var(--text);
+  transition: background 0.25s ease, color 0.25s ease;
+}
+
+body.dark {
+  background: radial-gradient(circle at 20% 20%, #0f1d36, var(--bg) 42%),
+    radial-gradient(circle at 80% 10%, #0f203a, var(--bg) 38%);
+}
+
+#app {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 32px 20px 60px;
+}
+
+.card {
+  background: var(--card);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+  padding: 24px;
+  color: var(--text);
+  border: 1px solid var(--border);
+}
+
+button {
+  cursor: pointer;
+}
