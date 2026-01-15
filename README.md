@@ -48,6 +48,15 @@ npm run dev -- --host
 ```
 預設會呼叫 `http://localhost:8000` 作為 API。
 
+## 啟動 Slidev（投影片簡報）
+```powershell
+cd slidev
+npx slidev
+```
+預設會在 `http://localhost:3030` 開啟投影片展示。
+
+Slidev 是一個基於 Markdown 的投影片框架，簡報內容在 `slides.md` 中維護。
+
 ## 使用方式
 1. 啟動 backend 與 frontend
 2. 打開瀏覽器 `http://localhost:5173`
