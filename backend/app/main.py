@@ -244,4 +244,7 @@ async def root() -> Dict[str, str]:
 if __name__ == "__main__":
     import uvicorn
 
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    current_dir = os.path.dirname(os.path.join(os.path.dirname(__file__), ".."))
+    app_dir = os.path.dirname(current_dir)
+
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, app_dir=app_dir, reload=True)

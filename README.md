@@ -31,7 +31,7 @@ python -m venv .venv
 pip install -r backend/requirements.txt
 copy .env.example backend\.env  # 或手動建立
 cd backend
-uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
+python app/main.py
 ```
 
 ### 主要 API
