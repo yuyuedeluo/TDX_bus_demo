@@ -239,3 +239,9 @@ async def route_stop_etas(
 @app.get("/")
 async def root() -> Dict[str, str]:
     return {"message": "TDX Bus ETA service"}
+
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
