@@ -68,3 +68,5 @@ Slidev 是一個基於 Markdown 的投影片框架，簡報內容在 `slides.md`
 - TDX City 參數請依官方代碼，常見：`Taipei`, `NewTaipei`, `Taoyuan`, `Taichung`, `Tainan`, `Kaohsiung`
 - 若要修改 CORS，調整 `FRONTEND_ORIGIN`（backend `.env`）
 - 如需部署，請改用正式的 Node / Uvicorn 啟動參數並處理憑證/Token 續期
+
+## 改良建議
